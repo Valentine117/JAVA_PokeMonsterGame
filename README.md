@@ -1,5 +1,6 @@
 # JAVA_PokeMonsterGame
 <p align ="center">
+<h1>잠시 기다리면 실행 영상이 나타납니다.</h1>
 <h1>Game Start & Select Pokemon</h1>
 <img src = "https://user-images.githubusercontent.com/47212854/185972716-311b1bcd-0589-46b2-aad2-795eb7383366.gif">
 </p>
